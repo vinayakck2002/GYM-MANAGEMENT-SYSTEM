@@ -1,1 +1,110 @@
-[{"model": "gym.member", "pk": 1, "fields": {"name": "Vinayak ", "phone": "1234567890", "join_date": "2025-12-23", "plan_months": 2, "amount": 1500, "expiry_date": "2026-02-21"}}, {"model": "gym.member", "pk": 2, "fields": {"name": "suru", "phone": "1234567891", "join_date": "2025-12-03", "plan_months": 1, "amount": 1000, "expiry_date": "2026-01-02"}}, {"model": "gym.member", "pk": 3, "fields": {"name": "Rahul", "phone": "6278414596", "join_date": "2025-12-16", "plan_months": 2, "amount": 1500, "expiry_date": "2026-02-14"}}, {"model": "gym.member", "pk": 6, "fields": {"name": "hari", "phone": "1234567890", "join_date": "2025-12-03", "plan_months": 1, "amount": 1000, "expiry_date": "2026-01-02"}}, {"model": "gym.member", "pk": 7, "fields": {"name": "Abhinav x", "phone": "6278414596", "join_date": "2025-10-14", "plan_months": 2, "amount": 1500, "expiry_date": "2025-12-13"}}, {"model": "gym.member", "pk": 8, "fields": {"name": "suthi k", "phone": "7023548670", "join_date": "2025-12-23", "plan_months": 6, "amount": 4500, "expiry_date": "2026-06-21"}}, {"model": "gym.member", "pk": 10, "fields": {"name": "Naruto", "phone": "6278414596", "join_date": "2025-12-01", "plan_months": 1, "amount": 1000, "expiry_date": "2025-12-31"}}, {"model": "gym.member", "pk": 11, "fields": {"name": "Lufi", "phone": "1234567890", "join_date": "2025-12-23", "plan_months": 2, "amount": 1500, "expiry_date": "2026-02-21"}}, {"model": "gym.member", "pk": 12, "fields": {"name": "Singam ", "phone": "1234567891", "join_date": "2025-12-04", "plan_months": 1, "amount": 1000, "expiry_date": "2026-01-03"}}]
+[
+{
+  "model": "gym.member",
+  "pk": 1,
+  "fields": {
+    "name": "Vinayak ",
+    "phone": "1234567890",
+    "join_date": "2025-12-23",
+    "plan_months": 2,
+    "amount": 1500,
+    "expiry_date": "2026-02-21"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 2,
+  "fields": {
+    "name": "suru",
+    "phone": "1234567891",
+    "join_date": "2025-12-03",
+    "plan_months": 1,
+    "amount": 1000,
+    "expiry_date": "2026-01-02"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 3,
+  "fields": {
+    "name": "Rahul",
+    "phone": "6278414596",
+    "join_date": "2025-12-16",
+    "plan_months": 2,
+    "amount": 1500,
+    "expiry_date": "2026-02-14"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 6,
+  "fields": {
+    "name": "hari",
+    "phone": "1234567890",
+    "join_date": "2025-12-03",
+    "plan_months": 1,
+    "amount": 1000,
+    "expiry_date": "2026-01-02"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 7,
+  "fields": {
+    "name": "Abhinav x",
+    "phone": "6278414596",
+    "join_date": "2025-10-14",
+    "plan_months": 2,
+    "amount": 1500,
+    "expiry_date": "2025-12-13"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 8,
+  "fields": {
+    "name": "suthi k",
+    "phone": "7023548670",
+    "join_date": "2025-12-23",
+    "plan_months": 6,
+    "amount": 4500,
+    "expiry_date": "2026-06-21"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 10,
+  "fields": {
+    "name": "Naruto",
+    "phone": "6278414596",
+    "join_date": "2025-12-01",
+    "plan_months": 1,
+    "amount": 1000,
+    "expiry_date": "2025-12-31"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 11,
+  "fields": {
+    "name": "Lufi",
+    "phone": "1234567890",
+    "join_date": "2025-12-23",
+    "plan_months": 2,
+    "amount": 1500,
+    "expiry_date": "2026-02-21"
+  }
+},
+{
+  "model": "gym.member",
+  "pk": 12,
+  "fields": {
+    "name": "Singam ",
+    "phone": "1234567891",
+    "join_date": "2025-12-04",
+    "plan_months": 1,
+    "amount": 1000,
+    "expiry_date": "2026-01-03"
+  }
+}
+]
