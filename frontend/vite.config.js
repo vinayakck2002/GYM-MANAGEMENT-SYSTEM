@@ -14,7 +14,8 @@ export default defineConfig({
     host: true,
     port: 10000,
     allowedHosts: [
-      'gym-management-system-9p44.onrender.com'
+      '.onrender.com'   // 🔥 THIS IS IMPORTANT
     ]
   }
 })
+
