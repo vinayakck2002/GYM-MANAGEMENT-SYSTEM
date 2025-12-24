@@ -238,3 +238,10 @@ def search_members(request):
         "total_pages": total_pages,
         "total_members": total_count,
     })
+
+
+def api_home(request):
+    return JsonResponse({
+        "status": "success",
+        "message": "Backend connected successfully 🚀"
+    })
