@@ -33,8 +33,9 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    ".onrender.com",
+    "gym-backend-bk8n.onrender.com",
 ]
+
 
 
 
@@ -51,14 +52,17 @@ INSTALLED_APPS = [
     'corsheaders',
 ]
 CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",
     "https://gym-frontend-feqq.onrender.com",
 ]
+
 
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_METHODS = [
     "GET",
     "POST",
     "PUT",
+    "PATCH",
     "DELETE",
     "OPTIONS",
 ]
