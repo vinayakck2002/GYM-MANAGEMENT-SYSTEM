@@ -50,7 +50,11 @@ INSTALLED_APPS = [
     'gym',
     'corsheaders',
 ]
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOWED_ORIGINS = [
+    "https://gym-frontend-feqq.onrender.com",
+]
+
+CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_METHODS = [
     "GET",
     "POST",
